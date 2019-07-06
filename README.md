@@ -3,6 +3,15 @@
 - This repo contains my study notes for different Azure exams.
 - Good luck & enjoy studying! ☕
 
+## Symbols
+
+- There are two symbols used throughout the documentation.
+
+    | Symbol | Description |
+    | ------ | ----------- |
+    | 💡 | Best practice or special hint for exam |
+    | ❗ | An important limitation, challange or an exception |
+
 ## Content
 
 - [AZ-300](https://www.microsoft.com/en-us/learning/exam-az-300.aspx): Microsoft Azure Architect Technologies
