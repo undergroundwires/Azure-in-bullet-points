@@ -29,9 +29,9 @@
   3. [Designing for Deployment, Migration and Integration](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.%20Designing%20for%20Deployment,%20Migration%20and%20Integration.md)
   4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.md)
 
-- [AZ-100](https://www.microsoft.com/en-us/learning/exam-az-100.aspx): Microsoft Azure Infrastructure and Deployment
-  1. [Manage Azure subscriptions and resources](AZ-100%20Microsoft%20Azure%20Infrastructure%20and%20Deployment/1.%20Manage%20Azure%20subscriptions%20and%20resources.md)
-  2. [Implement and manage storage](AZ-100%20Microsoft%20Azure%20Infrastructure%20and%20Deployment/2.%20Implement%20and%20manage%20storage.md)
-  3. [Deploy and manage virtual machines (VMs)](AZ-100%20Microsoft%20Azure%20Infrastructure%20and%20Deployment/3.%20Deploy%20and%20manage%20virtual%20machines%20(VMs).md)
-  4. [Configure and manage virtual networks](AZ-100%20Microsoft%20Azure%20Infrastructure%20and%20Deployment/4.%20Configure%20and%20manage%20virtual%20networks.md)
-  5. [Manage identities](AZ-100%20Microsoft%20Azure%20Infrastructure%20and%20Deployment/5.%20Manage%20identities.md)
+- [AZ-103](https://www.microsoft.com/en-us/learning/exam-az-103.aspx): Microsoft Azure Administrator
+  1. [Manage Azure subscriptions and resources](AZ-103%20Microsoft%20Azure%20Administrator/1.%20Manage%20Azure%20subscriptions%20and%20resources.md)
+  2. [Implement and manage storage](AZ-103%20Microsoft%20Azure%20Administrator/2.%20Implement%20and%20manage%20storage.md)
+  3. [Deploy and manage virtual machines (VMs)](AZ-103%20Microsoft%20Azure%20Administrator/3.%20Deploy%20and%20manage%20virtual%20machines%20(VMs).md)
+  4. [Configure and manage virtual networks](AZ-103%20Microsoft%20Azure%20Administrator/4.%20Configure%20and%20manage%20virtual%20networks.md)
+  5. [Manage identities](AZ-103%20Microsoft%20Azure%20Administrator/5.%20Manage%20identities.md)
