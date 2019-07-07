@@ -8,7 +8,7 @@
 - There are two symbols used throughout the documentation.
 
     | Symbol | Description |
-    | ------ | ----------- |
+    |:------:|-------------|
     | 💡 | Best practice or special hint for exam |
     | ❗ | An important limitation, challange or an exception |
 
