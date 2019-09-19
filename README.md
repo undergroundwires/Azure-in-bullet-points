@@ -1,6 +1,8 @@
 # Azure in bulletpoints
 
 - This repo contains my study notes for different Azure exams.
+- The notes are comprehensive and written with goal of covering all exam areas.
+  - I passed all of the exams with these notes.
 - Good luck & enjoy studying! ☕
 
 ## Symbols
