@@ -4,7 +4,7 @@
 - The notes are comprehensive and written with goal of covering all exam areas.
   - I passed all of the exams with these notes.
 - Good luck & enjoy studying! ☕
-- ✨ Contributions of any kind are welcome!
+- ✨ Contributions of any kind welcome!
 
 ## Symbols
 
