@@ -1,0 +1,22 @@
+name: Website update
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    -
+      name: Update cloudarchitecture.io
+      # Requires a "repo" scoped GitHub Personal Access Token. (secret: SITE_REPO_ACCESS_TOKEN)
+      run: >-
+        curl https://api.github.com/repos/undergroundwires/cloudarchitecture.io/dispatches \
+              -XPOST \
+                -H "Authorization: token ${{ secrets.SITE_REPO_ACCESS_TOKEN }}" \
+                -H "Accept: application/vnd.github.everest-preview+json" \
+                -H "Content-Type: application/json" \
+                --data '{"event_type": "child_repo_updated"}' \
+              --fail
