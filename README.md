@@ -14,6 +14,8 @@
     |:------:|-------------|
     | 💡 | Best practice or special hint for exam |
     | ❗ | An important limitation, challange or an exception |
+    | 📝 | Common exam area |
+    | 🤗 | Fact / trivia (most likely unrelated to the exam) |
 
 ## Content
 
@@ -23,6 +25,7 @@
     - [AZ-103: Microsoft Azure Administrator](#az-103-microsoft-azure-administrator)
     - [AZ-300: Microsoft Azure Architect Technologies](#az-300-microsoft-azure-architect-technologies)
     - [AZ-301: Microsoft Azure Architect Design](#az-301-microsoft-azure-architect-design)
+    - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](#az-400-designing-and-implementing-microsoft-devops-solutions)
 
 ### [AZ-103](https://www.microsoft.com/en-us/learning/exam-az-103.aspx): Microsoft Azure Administrator
 
@@ -77,3 +80,41 @@
 4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.md)
 
 [↑](#content)
+
+### [AZ-400](https://www.microsoft.com/en-us/learning/exam-az-400.aspx): Designing and Implementing Microsoft DevOps Solutions
+
+1. [Introduction](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.%20Introduction.md)
+   1. [Design a DevOps Strategy](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.1.%20Design%20a%20DevOps%20Strategy.md)
+   2. [Common tools for DevOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/1.2.%20Common%20tools%20for%20DevOps.md)
+2. [Azure DevOps Overview](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.%20Azure%20DevOps%20Overview.md)
+   1. [Migrations](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/2.1.%20Migrations.md)
+3. [Agile work management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.%20Agile%20work%20management.md)
+   1. [Azure Boards](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/3.1.%20Azure%20Boards.md)
+4. Continuous Testing
+   1. [Choosing Test and Work Management Tools](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.1.%20Continuous%20Testing%20-%20Choosing%20Test%20and%20Work%20Management%20Tools.md)
+   2. [Azure Test Plans](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/4.2.%20Continuous%20Testing%20-%20Azure%20Test%20Plans.md)
+5. [Continuous Feedback](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.%20Continuous%20Feedback.md)
+   1. [Azure Monitor](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/5.1.%20Azure%20Monitor.md)
+6. [Package management](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.%20Package%20Management.md)
+   1. [Azure Artifacts](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/6.1.%20Azure%20Artifacts.md)
+7. [Continuous Integration & Continuous Delivery](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.%20Continuous%20Integration%20&%20Continuous%20Delivery.md)
+   1. [Deployment Patterns](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.1.%20Deployment%20Patterns.md)
+   2. [Azure Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.%20Azure%20Pipelines.md)
+      1. [Container Agents](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.1.%20Azure%20Pipelines%20-%20Container%20Agents.md)
+      2. [Release Pipelines](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.2.%20Azure%20Pipelines%20-%20Release%20Pipelines.md)
+      3. [DevTest Labs](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.2.3.%20Azure%20Pipelines%20-%20DevTest%20Labs.md)
+   3. [Jenkins](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.3.%20Jenkins.md)
+   4. [SonarQube](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/7.4.%20SonarQube.md)
+8. [DevSecOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.%20DevSecOps.md)
+   1. [Azure Key Vault](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.1.%20Azure%20Key%20Vault.md)
+9. [Source code version control](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.%20Source%20code%20version%20control.md)
+    1. [Git](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.1.%20Git.md)
+    2. [Pull request strategies](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.2.%20Pull%20request%20strategies.md)
+    3. [Azure Repos](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.3.%20Azure%20Repos.md)
+10. [Containers](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.%20Containers.md)
+    1. [Azure Container Registry](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.1.%20Azure%20Container%20Registry.md)
+    2. [Azure Kubernetes Service](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.2.%20Azure%20Kubernetes%20Service.md)
+11. [Mobile DevOps (Visual Studio App Center)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/11.%20Mobile%20DevOps%20(Visual%20Studio%20App%20Center).md)
+12. [Infrastructure as code](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.%20Infrastructure%20as%20code.md)
+    1. [ARM templates](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.1.%20ARM%20templates.md)
+13. [Configuration as Code (PowerShell DSC & Azure Automation & Custom Script)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/13.%20Configuration%20as%20Code%20(PowerShell%20DSC%20&%20Azure%20Automation%20&%20Custom%20Script).md)
