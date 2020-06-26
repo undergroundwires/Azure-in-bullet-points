@@ -13,7 +13,7 @@
     | Symbol | Description |
     |:------:|-------------|
     | 💡 | Best practice or special hint for exam |
-    | ❗ | An important limitation, challange or an exception |
+    | ❗ | An important limitation, challenge or an exception |
     | 📝 | Common exam area |
     | 🤗 | Fact / trivia (most likely unrelated to the exam) |
 
@@ -111,13 +111,52 @@
 
 ### [AZ-300](https://www.microsoft.com/en-us/learning/exam-az-300.aspx): Microsoft Azure Architect Technologies
 
-1. [Azure basics](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/0.%20Azure%20basics.md)
-2. [Developing and Configuring Infrastructure](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/1.%20Developing%20and%20Configuring%20Infrastructure.md)
-3. [Implementing Workloads and Security](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.%20Implementing%20Workloads%20and%20Security.md)
-4. [Create and Deploy Apps](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.%20Create%20and%20Deploy%20Apps.md)
-5. [Implement Authentication and Secure Data](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.%20Implement%20Authentication%20and%20Secure%20Data.md)
-6. [Developing for the Cloud](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.%20Developing%20for%20the%20Cloud.md)
-7. [Understanding Cloud Architect Technology Solutions](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/6.%20Understanding%20Cloud%20Architect%20Technology%20Solutions.md)
+1. [Azure basics](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/1.%20Azure%20basics.md)
+2. Developing and Configuring Infrastructure
+   1. [Monitoring](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.1.%20Monitoring.md)
+   2. [Azure Storage](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.2.%20Azure%20Storage.md)
+   3. [Azure Content Delivery Network (CDN)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.3.%20Azure%20Content%20Delivery%20Network%20(CDN).md)
+   4. [Virtual Machines](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.4.%20Virtual%20Machines.md)
+      1. [Deploy](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.4.1.%20Virtual%20Machines%20-%20Deploy.md)
+      2. [Azure Backup & Azure Site Recovery](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.4.2.%20Virtual%20Machines%20-%20Azure%20Backup%20&%20Azure%20Site%20Recovery%20&%20Snapshots.md)
+   5. [Virtual Networks](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.5.%20Virtual%20Networks.md)
+      1. [Virtual Network Connectivity](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.5.1.%20Virtual%20Networks%20-%20Virtual%20Network%20Connectivity.md)
+      2. [Virtual Network Interface](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.5.2.%20Virtual%20Networks%20-%20Virtual%20Network%20Interface.md)
+   6. Identities
+      1. [Azure Active Directory](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.6.1.%20Identities%20-%20Azure%20Active%20Directory.md)
+         1. [Hybrid Identities](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.6.1.1.%20Identities%20-%20Azure%20Active%20Directory%20-%20Hybrid%20Identities.md)
+      2. [Active Directory Domain Services (ADDS)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/2.6.2.%20Identities%20-%20Active%20Directory%20Domain%20Services%20(ADDS).md)
+3. Implementing Workloads and Security
+   1. [Azure Migration](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.1.%20Azure%20Migration.md)
+      1. [Azure Migrate Service](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.1.1.%20Azure%20Migrate%20Service.md)
+      2. [Azure Site Recovery Service](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.1.2.%20Azure%20Site%20Recovery%20Service.md)
+   2. [Web Apps (App Service)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.2.%20Web%20Apps%20(App%20Service).md)
+   3. [Serverless Computing (Azure Functions & Event Grid & Service Bus & Logic Apps)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.3.%20Serverless%20Computing%20(Azure%20Functions%20&%20Event%20Grid%20&%20Service%20Bus%20&%20Logic%20Apps).md)
+   4. [Networking](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.4.%20Networking.md)
+      1. [Hybrid Connections (Site-to-Site VPN & ExpressRoute)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.4.1.%20Networking%20-%20Hybrid%20Connections%20(Site-to-Site%20VPN%20&%20ExpressRoute).md)
+   5. [Manage role-based access control (RBAC)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.5.%20Manage%20role-based%20access%20control%20(RBAC).md)
+   6. [Multi-Factor Authentication (MFA)](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/3.6.%20Multi-Factor%20Authentication%20(MFA).md)
+4. Create and Deploy Apps
+   1. [Creating Web Applications using PaaS](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.1.%20Creating%20Web%20Applications%20using%20PaaS.md)
+   2. [Azure Service Fabric](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.2.%20Azure%20Service%20Fabric.md)
+   3. [Using containers and orchestration](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/4.3.%20Using%20containers%20and%20orchestration.md)
+5. [Implement Authentication and Secure Data](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.%20Implement%20Authentication%20and%20Secure%20Data.md)
+   1. [Authentication](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.1.%20Authentication.md)
+   2. [Authorization](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.2.%20Authorization.md)
+   3. [Encryption](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/5.3.%20Encryption.md)
+6. Developing for the Cloud
+   1. [Asynchronous Messaging](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.1.%20Asynchronous%20Messaging.md)
+   2. [Configure Message-based integration architecture](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.2.%20Configure%20Message-based%20integration%20architecture.md)
+   3. [Development for asynchronous processes](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.3.%20Development%20for%20asynchronous%20processes.md)
+   4. [Developing for autoscaling](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.4.%20Developing%20for%20autoscaling.md)
+   5. [Implement code that addresses a transient state](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.5.%20Implement%20code%20that%20addresses%20a%20transient%20state.md)
+   6. [Implement code that addresses singleton application instances](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/6.6.%20Implement%20code%20that%20addresses%20singleton%20application%20instances.md)
+   7. [Querying Azure Resources](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.7.%20Querying%20Azure%20Resources.md)
+   8. [Develop database solutions](AZ-300%20Microsoft%20Azure%20Architect%20Technologies//6.8.%20Develop%20database%20solutions.md)
+7. Understanding Cloud Architect Technology Solutions
+   1. [Design and Connectivity Patterns](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/7.1.%20Design%20and%20Connectivity%20Patterns.md)
+   2. [Hybrid Networking](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/7.2.%20Hybrid%20Networking.md)
+   3. [Storing in cloud](AZ-300%20Microsoft%20Azure%20Architect%20Technologies/7.3.%20Storing%20in%20cloud.md)
 
 [↑](#content)
 
