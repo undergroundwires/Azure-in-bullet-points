@@ -162,10 +162,46 @@
 
 ### [AZ-301](https://www.microsoft.com/en-us/learning/exam-az-301.aspx): Microsoft Azure Architect Design
 
-1. [Designing for Identity and Security](AZ-301%20Microsoft%20Azure%20Architect%20Design/1.%20Designing%20for%20Identity%20and%20Security.md)
-2. [Designing a Data Platform Solution](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.%20Designing%20a%20Data%20Platform%20Solution.md)
-3. [Designing for Deployment, Migration and Integration](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.%20Designing%20for%20Deployment,%20Migration%20and%20Integration.md)
-4. [Designing an Infrastructure Strategy](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.%20Designing%20an%20Infrastructure%20Strategy.md)
+1. Designing for Identity and Security
+   1. Security
+      1. [Responsibilities](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.1.1.%20Security%20-%20Responsibilities.md)
+      2. [Azure data centers](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.1.2.%20Security%20-%20Azure%20data%20centers.md)
+      3. [Azure Key Vault](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.1.3.%20Security%20-%20Azure%20Key%20Vault.md)
+      4. [Azure Active Directory (Azure AD)](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.1.4.%20Security%20-%20Azure%20Active%20Directory%20(Azure%20AD).md)
+   2. SaaS services in Azure
+      1. [Cognitive Services](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.2.1.%20SaaS%20services%20in%20Azure%20-%20Cognitive%20Services.md)
+      2. [Bots (Bot Services, QnA Maker)](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.2.2.%20SaaS%20services%20in%20Azure%20-%20Bots%20(Bot%20Services,%20QnA%20Maker).md)
+      3. [Azure Machine Learning](./AZ-301%20Microsoft%20Azure%20Architect%20Design/1.2.3.%20SaaS%20services%20in%20Azure%20-%20Azure%20Machine%20Learning.md)
+      4. [Media Processing](AZ-301%20Microsoft%20Azure%20Architect%20Design/1.2.4.%20SaaS%20services%20in%20Azure%20-%20Media%20Processing.md)
+2. Designing a Data Platform Solution
+   1. Storage
+      1. [Azure Storage](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.1.1.%20Storage%20-%20Azure%20Storage.md)
+         1. [Storage Account](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.1.1.1.%20Storage%20-%20Storage%20Account.md)
+      2. [StorSimple](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.1.2.%20Storage%20-%20StorSimple.md)
+   2. [SQL (Azure SQL Database)](AZ-301%20Microsoft%20Azure%20Architect%20Design/2.2.%20SQL%20(Azure%20SQL%20Database).md)
+   3. [Other data services (Azure Search, Cosmos DB, SQL Data Warehouse, Data Lake Store, Date Lake Analytics, Data Factory)](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.3.%20Other%20data%20services%20(Azure%20Search,%20Cosmos%20DB,%20SQL%20Data%20Warehouse,%20Data%20Lake%20Store,%20Date%20Lake%20Analytics,%20Data%20Factory).md)
+   4. [Azure Automation](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.4.%20Azure%20Automation.md)
+   5. [Data Analysis (Azure Analysis Services, HDInsight, Azure Data Catalog)](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.5.%20Data%20Analysis%20(Azure%20Analysis%20Services,%20HDInsight,%20Azure%20Data%20Catalog).md)
+   6. [Backup (Azure Backup & Azure Site Recovery)](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.6.%20Backup%20(Azure%20Backup%20&%20Azure%20Site%20Recovery).md)
+   7. [Monitoring](./AZ-301%20Microsoft%20Azure%20Architect%20Design/2.7.%20Monitoring.md)
+3. Designing for Deployment, Migration and Integration
+   1. [Azure Resource Manager](./AZ-301%20Microsoft%20Azure%20Architect%20Design/3.1.%20Azure%20Resource%20Manager.md)
+      1. [Role-Based Access Control (RBAC)](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.1.1.%20Role-Based%20Access%20Control%20(RBAC).md)
+      2. [Azure Resource Policies](./AZ-301%20Microsoft%20Azure%20Architect%20Design/3.1.2.%20Azure%20Resource%20Policies.md)
+      3. [Securing ARM templates](./AZ-301%20Microsoft%20Azure%20Architect%20Design/3.1.3.%20Securing%20ARM%20templates%20(Azure%20Key%20Vault).md)
+      4. [Deploying ARM templates (Azure Building Blocks)](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.1.4.%20Deploying%20ARM%20templates%20(Azure%20Building%20Blocks).md)
+   2. [Managed Server Applications (App Service Environments, Azure Service Fabric, Azure Container Service, Azure Container Instance)](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.2.%20Managed%20Server%20Applications%20(App%20Service%20Environments,%20Azure%20Service%20Fabric,%20Azure%20Container%20Service,%20Azure%20Container%20Instance).md)
+      1. [High-Performance Compute (HPC)](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.2.1.%20High-Performance%20Compute%20(HPC).md)
+   3. [Migration strategies](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.3.%20Migration%20strategies.md)
+   4. [App Services](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.4.%20App%20Services.md)
+   5. [Authoring Serverless Applications in Azure](AZ-301%20Microsoft%20Azure%20Architect%20Design/3.5.%20Authoring%20Serverless%20Applications%20in%20Azure.md)
+4. Designing an Infrastructure Strategy
+   1. [Application Architecture Patterns in Azure](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.1.%20Application%20Architecture%20Patterns%20in%20Azure.md)
+   2. [VM Availability (SLA, Availability Sets, Availability Zones)](AZ-301%20Microsoft%20Azure%20Architect%20Design/4.2.%20VM%20Availability%20(SLA,%20Availability%20Sets,%20Availability%20Zones).md)
+   3. [Azure VM Scale Sets](./AZ-301%20Microsoft%20Azure%20Architect%20Design/4.3.%20Azure%20VM%20Scale%20Sets.md)
+   4. [Hybrid Cloud](./AZ-301%20Microsoft%20Azure%20Architect%20Design/4.4.%20Hybrid%20Cloud.md)
+   5. [Networking Azure Application Components](./AZ-301%20Microsoft%20Azure%20Architect%20Design/4.5.%20Networking%20Azure%20Application%20Components.md)
+   6. [Messaging Services](./AZ-301%20Microsoft%20Azure%20Architect%20Design/4.6.%20Messaging%20Services.md)
 
 [↑](#content)
 
