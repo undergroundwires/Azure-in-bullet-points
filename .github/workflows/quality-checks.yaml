@@ -1,0 +1,26 @@
+name: Quality checks
+
+on: [push, pull_request]
+
+jobs:
+
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lint-command:
+          - npm run lint:md
+          - npm run lint:relative-urls
+          - npm run lint:external-urls
+          - npm run lint:consistency
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Install dependencies
+        run: npm ci
+      - name: Ensure consistency
+        run: ${{ matrix.lint-command }}

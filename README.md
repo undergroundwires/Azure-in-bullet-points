@@ -1,5 +1,8 @@
 # Azure in bulletpoints
 
+[![Quality checks status](https://github.com/undergroundwires/Azure-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/Azure-in-bullet-points/actions)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/undergroundwires/Azure-in-bullet-points/issues)
+
 - This repo contains my study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
   - I passed all of the exams with these notes.
@@ -10,12 +13,12 @@
 
 - There are two symbols used throughout the documentation.
 
-    | Symbol | Description |
-    |:------:|-------------|
-    | 💡 | Best practice or special hint for exam |
-    | ❗ | An important limitation, challenge or an exception |
-    | 📝 | Common exam area |
-    | 🤗 | Fact / trivia (most likely unrelated to the exam) |
+  | Symbol | Description |
+  |:------:|-------------|
+  | 💡 | Best practice or special hint for exam |
+  | ❗ | An important limitation, challenge or an exception |
+  | 📝 | Common exam area |
+  | 🤗 | Fact / trivia (most likely unrelated to the exam) |
 
 ## Content
 
@@ -57,7 +60,7 @@
       1. [Load Balancing](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.3.1.%20Load%20Balancing.md)
 4. Security
    1. [Shared Responsibility Model](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.1.%20Shared%20Responsibility%20Model.md)
-   2. [Defence in Depth](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20depth.md)
+   2. [Defence in Depth](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20Depth.md)
    3. [Azure Security Center](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.3.%20Azure%20Security%20Center.md)
    4. [Identity and Access (Azure AD)](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.4.%20Identity%20and%20Access%20(Azure%20AD).md)
    5. [Encryption (Azure Key Vault, Certificates)](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.5.%20Encryption%20(Azure%20Key%20Vault,%20Certificates).md)
@@ -232,9 +235,9 @@
 8. [DevSecOps](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.%20DevSecOps.md)
    1. [Azure Key Vault](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/8.1.%20Azure%20Key%20Vault.md)
 9. [Source code version control](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.%20Source%20code%20version%20control.md)
-    1. [Git](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.1.%20Git.md)
-    2. [Pull request strategies](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.2.%20Pull%20request%20strategies.md)
-    3. [Azure Repos](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.3.%20Azure%20Repos.md)
+   1. [Git](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.1.%20Git.md)
+   2. [Pull request strategies](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.2.%20Pull%20request%20strategies.md)
+   3. [Azure Repos](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/9.3.%20Azure%20Repos.md)
 10. [Containers](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.%20Containers.md)
     1. [Azure Container Registry](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.1.%20Azure%20Container%20Registry.md)
     2. [Azure Kubernetes Service](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/10.2.%20Azure%20Kubernetes%20Service.md)
