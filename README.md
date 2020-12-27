@@ -85,12 +85,12 @@
    1. [Azure Cloud Shell](AZ-103%20Microsoft%20Azure%20Administrator/1.1.%20Management%20-%20Azure%20Cloud%20Shell.md)
    2. [Resources & Costs](AZ-103%20Microsoft%20Azure%20Administrator/1.2.%20Management%20-%20Resources%20&%20Costs.md)
    3. [Resource Groups](AZ-103%20Microsoft%20Azure%20Administrator/1.3.%20Management%20-%20Resource%20Groups.md)
-2. Governence
-   1. [Roles](AZ-103%20Microsoft%20Azure%20Administrator/2.1.%20Governence%20-%20Roles.md)
-   2. [Azure AD](AZ-103%20Microsoft%20Azure%20Administrator/2.2.%20Governence%20-%20Azure%20AD.md)
-      1. [Entities](AZ-103%20Microsoft%20Azure%20Administrator/2.2.1.%20Governence%20-%20Azure%20AD%20-%20Entities.md)
-      2. [Hybrid identities](AZ-103%20Microsoft%20Azure%20Administrator/2.2.2.%20Governence%20-%20Azure%20AD%20-%20Hybrid%20Identities.md)
-   3. [Azure Policies](AZ-103%20Microsoft%20Azure%20Administrator/2.3.%20Governence%20-%20Azure%20Policies.md)
+2. Governance
+   1. [Roles](AZ-103%20Microsoft%20Azure%20Administrator/2.1.%20Governance%20-%20Roles.md)
+   2. [Azure AD](AZ-103%20Microsoft%20Azure%20Administrator/2.2.%20Governance%20-%20Azure%20AD.md)
+      1. [Entities](AZ-103%20Microsoft%20Azure%20Administrator/2.2.1.%20Governance%20-%20Azure%20AD%20-%20Entities.md)
+      2. [Hybrid identities](AZ-103%20Microsoft%20Azure%20Administrator/2.2.2.%20Governance%20-%20Azure%20AD%20-%20Hybrid%20Identities.md)
+   3. [Azure Policies](AZ-103%20Microsoft%20Azure%20Administrator/2.3.%20Governance%20-%20Azure%20Policies.md)
 3. [Monitoring](AZ-103%20Microsoft%20Azure%20Administrator/3.%20Monitoring.md)
 4. Storage
    1. [Azure Storage](AZ-103%20Microsoft%20Azure%20Administrator/4.1.%20Storage%20-%20Azure%20Storage.md)
