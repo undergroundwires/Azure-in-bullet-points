@@ -137,7 +137,7 @@
       1. [Hybrid Connections (Site-to-Site VPN & ExpressRoute)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.2.1.%20Networking%20-%20Hybrid%20Connections%20(Site-to-Site%20VPN%20&%20ExpressRoute).md)
    3. [Manage role-based access control (RBAC)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.3.%20Manage%20role-based%20access%20control%20(RBAC).md)
    4. [Multi-Factor Authentication (MFA)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.4.%20Multi-Factor%20Authentication%20(MFA).md)
-   5. [Implement Authentication and Secure Data](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.5.%20Implement%20Authentication%20and%20Secure%20Data.md)
+   5. Implement Authentication and Secure Data
       1. [Authentication](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.5.1.%20Authentication.md)
       2. [Authorization](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.5.2.%20Authorization.md)
       3. [Encryption](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/3.5.3.%20Encryption.md)
