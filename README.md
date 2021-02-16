@@ -56,6 +56,7 @@
       3. [App Service](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.1.3.%20App%20Service.md)
       4. [Serverless Computing](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.1.4.%20Serverless%20Computing.md)
    2. [Storage](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.2.%20Storage.md)
+      1. [Databases](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.2.1.%20Databases.md)
    3. [Networking](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.3.%20Networking.md)
       1. [Load Balancing](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.3.1.%20Load%20Balancing.md)
 4. Security
@@ -121,7 +122,7 @@
    3. [Azure Content Delivery Network (CDN)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.3.%20Azure%20Content%20Delivery%20Network%20(CDN).md)
    4. [Virtual Machines](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.4.%20Virtual%20Machines.md)
       1. [Deploy](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.4.1.%20Virtual%20Machines%20-%20Deploy.md)
-      2. [Azure Backup & Azure Site Recovery](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.4.2.%20Virtual%20Machines%20-%20Azure%20Backup%20&%20Azure%20Site%20Recovery%20&%20Snapshots.md)
+      2. [Azure Backup & Azure Site Recovery & Snapshots](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.4.2.%20Virtual%20Machines%20-%20Azure%20Backup%20&%20Azure%20Site%20Recovery%20&%20Snapshots.md)
    5. [Virtual Networks](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.5.%20Virtual%20Networks.md)
       1. [Virtual Network Connectivity](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.5.1.%20Virtual%20Networks%20-%20Virtual%20Network%20Connectivity.md)
       2. [Virtual Network Interface](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/2.5.2.%20Virtual%20Networks%20-%20Virtual%20Network%20Interface.md)
@@ -146,7 +147,7 @@
    2. [Web Apps (App Service)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.2.%20Web%20Apps%20(App%20Service).md)
    3. [Azure Service Fabric](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.3.%20Azure%20Service%20Fabric.md)
    4. [Using containers and orchestration](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.4.%20Using%20containers%20and%20orchestration.md)
-   5. [Serverless Computing (Azure Functions & Logic Apps](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.5.%20Serverless%20Computing%20(Azure%20Functions%20&%20Logic%20Apps).md)
+   5. [Serverless Computing (Azure Functions & Logic Apps)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.5.%20Serverless%20Computing%20(Azure%20Functions%20&%20Logic%20Apps).md)
 5. Cloud development
    1. [Asynchronous Messaging](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.1.%20Asynchronous%20Messaging.md)
       1. [Azure Queues (Storage Queues & Event Grid & Service Bus & Event Hubs & IoT Hub)](./AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.1.1.%20Azure%20Queues%20(Storage%20Queues%20&%20Event%20Grid%20&%20Service%20Bus%20&%20Event%20Hubs%20&%20IoT%20Hub).md)
