@@ -148,11 +148,11 @@
    3. [Azure Service Fabric](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.3.%20Azure%20Service%20Fabric.md)
    4. [Using containers and orchestration](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.4.%20Using%20containers%20and%20orchestration.md)
    5. [Serverless Computing (Azure Functions & Logic Apps)](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/4.5.%20Serverless%20Computing%20(Azure%20Functions%20&%20Logic%20Apps).md)
-5. Cloud development
+5. Developing for cloud
    1. [Asynchronous Messaging](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.1.%20Asynchronous%20Messaging.md)
       1. [Azure Queues (Storage Queues & Event Grid & Service Bus & Event Hubs & IoT Hub)](./AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.1.1.%20Azure%20Queues%20(Storage%20Queues%20&%20Event%20Grid%20&%20Service%20Bus%20&%20Event%20Hubs%20&%20IoT%20Hub).md)
    2. [Configure Message-based integration architecture](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.2.%20Configure%20Message-based%20integration%20architecture.md)
-   3. [Development for asynchronous processes](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.3.%20Development%20for%20asynchronous%20processes.md)
+   3. [Developing for asynchronous processes](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.3.%20Developing%20for%20asynchronous%20processes.md)
    4. [Developing for autoscaling](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.4.%20Developing%20for%20autoscaling.md)
    5. [Implement code that addresses a transient state](AZ-303%20Microsoft%20Azure%20Architect%20Technologies//5.5.%20Implement%20code%20that%20addresses%20a%20transient%20state.md)
    6. [Implement code that addresses singleton application instances](AZ-303%20Microsoft%20Azure%20Architect%20Technologies/5.6.%20Implement%20code%20that%20addresses%20singleton%20application%20instances.md)
