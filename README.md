@@ -1,12 +1,29 @@
 # Azure in bulletpoints
 
 [![Quality checks status](https://github.com/undergroundwires/Azure-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/Azure-in-bullet-points/actions)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/undergroundwires/Azure-in-bullet-points/issues)
+[![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=Azure-in-bullet-points)
 
 - This repo contains my study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
   - I passed all of the exams with these notes.
 - Good luck & enjoy studying! ☕
+
+## Content
+
+<!-- no toc -->
+- [AZ-900: Microsoft Azure Fundamentals](#az-900-microsoft-azure-fundamentals)
+- [AZ-104: Microsoft Azure Administrator](#az-104-microsoft-azure-administrator)
+- [AZ-303: Microsoft Azure Architect Technologies](#az-303-microsoft-azure-architect-technologies)
+- [AZ-304: Microsoft Azure Architect Design](#az-304-microsoft-azure-architect-design)
+- [AZ-400: Designing and Implementing Microsoft DevOps Solutions](#az-400-designing-and-implementing-microsoft-devops-solutions)
+
+## Support
+
+- ⭐️ Simplest way to say thanks is just to it a star 🤩
+- ❤️ To show more support:
+  - ☕️ [buy me a coffee](https://ko-fi.com/undergroundwires)
+  - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
+  - 🎈 [donate using another way](https://undergroundwires.dev/donate)
 - ✨ Contributions of any kind are welcome!
 
 ## Symbols
@@ -19,17 +36,6 @@
   | ❗ | An important limitation, challenge or an exception |
   | 📝 | Common exam area |
   | 🤗 | Fact / trivia (most likely unrelated to the exam) |
-
-## Content
-
-- [Azure in bulletpoints](#azure-in-bulletpoints)
-  - [Symbols](#symbols)
-  - [Content](#content)
-    - [AZ-900: Microsoft Azure Fundamentals](#az-900-microsoft-azure-fundamentals)
-    - [AZ-104: Microsoft Azure Administrator](#az-104-microsoft-azure-administrator)
-    - [AZ-303: Microsoft Azure Architect Technologies](#az-303-microsoft-azure-architect-technologies)
-    - [AZ-304: Microsoft Azure Architect Design](#az-304-microsoft-azure-architect-design)
-    - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](#az-400-designing-and-implementing-microsoft-devops-solutions)
 
 ### [AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900): Microsoft Azure Fundamentals
 
@@ -246,3 +252,5 @@
 12. [Infrastructure as code](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.%20Infrastructure%20as%20code.md)
     1. [ARM templates](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/12.1.%20ARM%20templates.md)
 13. [Configuration as Code (PowerShell DSC & Azure Automation & Custom Script)](AZ-400%20Microsoft%20Azure%20DevOps%20Solutions/13.%20Configuration%20as%20Code%20(PowerShell%20DSC%20&%20Azure%20Automation%20&%20Custom%20Script).md)
+
+[↑](#content)
