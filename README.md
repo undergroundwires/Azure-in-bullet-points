@@ -194,6 +194,7 @@
    5. [Data Analysis (Azure Analysis Services, HDInsight, Azure Data Catalog)](./AZ-304%20Microsoft%20Azure%20Architect%20Design/3.5.%20Data%20Analysis%20(Azure%20Analysis%20Services,%20HDInsight,%20Azure%20Data%20Catalog).md)
    6. [Backup (Azure Backup & Azure Site Recovery)](./AZ-304%20Microsoft%20Azure%20Architect%20Design/3.6.%20Backup%20(Azure%20Backup%20&%20Azure%20Site%20Recovery).md)
    7. [Monitoring](./AZ-304%20Microsoft%20Azure%20Architect%20Design/3.7.%20Monitoring.md)
+      1. [Azure Sentinel](AZ-304%20Microsoft%20Azure%20Architect%20Design/3.7.1.%20Azure%20Sentinel.md)
 4. Deployment, Migration and Integration
    1. [Azure Resource Manager](./AZ-304%20Microsoft%20Azure%20Architect%20Design/4.1.%20Azure%20Resource%20Manager.md)
       1. [Role-Based Access Control (RBAC)](AZ-304%20Microsoft%20Azure%20Architect%20Design/4.1.1.%20Role-Based%20Access%20Control%20(RBAC).md)
