@@ -21,7 +21,7 @@
 
 - ⭐️ Simplest way to say thanks is just to it a star 🤩
 - ❤️ To show more support:
-  - ☕️ [buy me a coffee](https://ko-fi.com/undergroundwires)
+  - ☕️ [buy me a coffee](https://buymeacoffee.com/undergroundwire)
   - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
   - 🎈 [donate using another way](https://undergroundwires.dev/donate)
 - ✨ Contributions of any kind are welcome!
