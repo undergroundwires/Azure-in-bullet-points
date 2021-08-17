@@ -10,10 +10,10 @@
     "lint:consistency": "remark . --frail --use remark-preset-lint-consistent"
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.26.0",
-    "remark-cli": "^9.0.0",
+    "markdownlint-cli": "^0.28.1",
+    "remark-cli": "^10.0.0",
     "remark-lint-no-dead-urls": "^1.1.0",
-    "remark-preset-lint-consistent": "^4.0.0",
-    "remark-validate-links": "^10.0.2"
+    "remark-preset-lint-consistent": "^5.0.1",
+    "remark-validate-links": "^11.0.0"
   }
 }
