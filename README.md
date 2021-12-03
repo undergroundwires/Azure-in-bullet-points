@@ -99,6 +99,7 @@
       2. [Hybrid identities](AZ-104%20Microsoft%20Azure%20Administrator/2.2.2.%20Governance%20-%20Azure%20AD%20-%20Hybrid%20Identities.md)
    3. [Azure Policies](AZ-104%20Microsoft%20Azure%20Administrator/2.3.%20Governance%20-%20Azure%20Policies.md)
 3. [Monitoring](AZ-104%20Microsoft%20Azure%20Administrator/3.%20Monitoring.md)
+   1. [Monitoring costs](AZ-104%20Microsoft%20Azure%20Administrator/3.1.%20Monitoring%20-%20Monitoring%20costs.md)
 4. Storage
    1. [Azure Storage](AZ-104%20Microsoft%20Azure%20Administrator/4.1.%20Storage%20-%20Azure%20Storage.md)
       1. [Security](AZ-104%20Microsoft%20Azure%20Administrator/4.1.1.%20Storage%20-%20Azure%20Storage%20-%20Security.md)
