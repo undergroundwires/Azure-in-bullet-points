@@ -65,6 +65,7 @@
       1. [Databases](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.2.1.%20Databases.md)
    3. [Networking](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.3.%20Networking.md)
       1. [Load Balancing](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.3.1.%20Load%20Balancing.md)
+   4. [Other services](./AZ-900%20Microsoft%20Azure%20Fundamentals/3.4.%20Other%20services.md)
 4. Security
    1. [Shared Responsibility Model](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.1.%20Shared%20Responsibility%20Model.md)
    2. [Defence in Depth](./AZ-900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20Depth.md)
